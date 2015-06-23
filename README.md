@@ -1,20 +1,18 @@
-<h1>Hello FAF, this is a document</h1>
+# Hello FAF, this is a document
+So we're trying to do interesting documents
 
-<p>So we're trying to do interesting documents</p>
+`*They are actually quide **hard***`
+Not that *easy*
 
-<p>They are actually quide <strong>hard</strong>
-Not that <em>easy</em></p>
+What happens if we do ##this?
 
-<p>What happens if we do ##this?</p>
+How about `*this*`?
 
-<p>How about <code><em>this</em></code>?</p>
+`**it *wor`k`s!***`
 
-<p><strong>it <em>wor<code>k</code>s!</em></strong></p>
+Let me put a bold link: [**stuff**](http://41.media.tumblr.com/49a58542fd70b8ca39b5bd0d9c9c53aa/tumblr_nob40mvTN41tb9nzio1_500.jpg)
+## Okay, part two
 
-<p>Let me put a bold link: <a href="http://41.media.tumblr.com/49a58542fd70b8ca39b5bd0d9c9c53aa/tumblr_nob40mvTN41tb9nzio1_500.jpg"><strong>stuff</strong></a></p>
+But there's no part two!
 
-<h2>Okay, part two</h2>
-
-<p>But there's no part two!</p>
-
-<h6>So long!</h6>
+###### So long!
